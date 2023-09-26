@@ -1,0 +1,15 @@
+localhost/service_medical/admin/
+
+Email:admin@gmail.com 
+password:123456
+
+
+
+---------->
+Users: Can Send Request 
+
+super admin: He can add, delete, or modify the service and cities, and he can delete orders. In addition, he can delete the admin, while the admin cannot delete admins.
+
+
+
+-------------------> thanks dear :)
